@@ -201,10 +201,6 @@ export default function App() {
             </button>
           </div>
         </div>
-
-        {/* --- Remaining UI like LEFT HUD, PLAY AREA, OVERLAY --- */}
-        {/* Copy the rest of your code as it was, no changes needed here */}
-
       </div>
     </div>
   );
